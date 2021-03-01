@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/OddCommmon/utils.git"
   },
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\""
+  },
   "author": "OddCommon",
   "license": "ISC",
   "bugs": {

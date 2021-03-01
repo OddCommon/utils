@@ -1,6 +1,6 @@
-import {q, qAll} from "./src/q";
+import { q, qAll } from "./src/q";
 
 module.exports = {
-    q,
-    qAll
-}
+  q,
+  qAll,
+};
