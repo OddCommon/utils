@@ -1,13 +1,13 @@
 {
   "name": "@oddcommon/utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "A collection of utils used by OddCommon",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/OddCommmon/utils.git"
   },
-  "author": "",
+  "author": "OddCommon",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/OddCommmon/utils/issues"
