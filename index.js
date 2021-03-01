@@ -1,1 +1,6 @@
-alert("Hello, World!");
+import {q, qAll} from "./src/q";
+
+module.exports = {
+    q,
+    qAll
+}
