@@ -1,5 +1,5 @@
 {
-  "name": "oddcommon-utils",
+  "name": "@oddcommon/utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
