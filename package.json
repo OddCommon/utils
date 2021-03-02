@@ -10,8 +10,10 @@
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
   },
+  "type": "module",
+  "sideEffects": false,
   "author": "OddCommon",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/OddCommmon/utils/issues"
   },
