@@ -5,6 +5,8 @@ export const isMobile = () => {
 };
 
 export const isIPad = () => {
-  (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 0) ||
-    navigator.platform === "iPad";
+  return (
+    (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 0) ||
+    navigator.platform === "iPad"
+  );
 };
