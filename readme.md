@@ -27,8 +27,6 @@ To import in a project: `import { randomNumber } from "@oddcommon/utils";`
 * [DOM](#dom)
   * q
   * qAll
-* [GraphQL](#graphql)
-  * resolveEdgeImages
 * [Mouse](#mouse)
   * getMousePosition
 * [Numbers](#numbers)
@@ -82,11 +80,6 @@ A shorthand for `[element].querySelector()`; `context` defaults to `document`.
 
 #### qAll(selector: string, context: element)
 A shorthand for `[element].querySelectorAll()`; `context` defaults to `document`.
-
-### GraphQL 📈
-
-#### resolveEdgeImages(data: any[])
-Return an object with just the image nodes. ??? (Do we use this in conjunction with a specific query? Or framework?)
 
 ### Mouse 🖱️
 
